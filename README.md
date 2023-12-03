@@ -1,2 +1,4 @@
 # practice-git
-This repo used for practicing Git
+This repo is used for practicing Git
+<br />
+Modifying repo using VS Code terminal
